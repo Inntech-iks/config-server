@@ -11,8 +11,8 @@ microservice:
   gallery-service:
     endpoints:
       endpoint:
-        uri: //gallery-service/gallery/
+        uri: http://gallery-service/gallery/
   image-service:
     endpoints:
       endpoint:
-        uri: //gallery-service/image/     
+        uri: http://gallery-service/image/     
