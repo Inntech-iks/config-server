@@ -15,4 +15,4 @@ microservice:
   image-service:
     endpoints:
       endpoint:
-        uri: http://gallery-service/image/     
+        uri: http://image-service/image/     
